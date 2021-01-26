@@ -1,0 +1,30 @@
+div{
+	width:1225px;
+	height:600px;
+	border:10px inset #000000;
+	padding:20px;
+	display:flex;
+	justify-content: center;
+    align-items: center;
+	font-size:30px;
+}
+input{
+	border: 10px inset #aa00aa;
+	padding: 10px;
+	width: 250px;
+	font-size: 30px;
+	background-color:#ff9900;
+	color: #aa00aa;
+}
+h3{
+	font-size: 60px;
+	color: #fa0b0c;
+}
+input:hover{
+	background-color:#00688b;
+	color: #ff6103;
+}
+img{
+	padding:20px;
+	height:400px;
+}
